@@ -1,0 +1,45 @@
+* {
+  margin-right: 0;
+  margin-left: 0;
+  margin-top: 0; }
+
+nav {
+  background-color: #faeaea;
+  font-family: 'Barlow Condensed', sans-serif;
+  font-size: 25px;
+  text-decoration: none;
+  color: black; }
+
+body {
+  background-color: #f0cbc3; }
+
+.redes {
+  height: 130px; }
+
+footer {
+  text-align: center;
+  background-color: #f0deda;
+  align-items: center; }
+
+.sociales li {
+  display: inline-block; }
+  .sociales li a {
+    padding: 10px; }
+
+.logo {
+  width: 150px; }
+
+.icono {
+  width: 45px; }
+
+.animate__animated {
+  width: 70%;
+  border-radius: 100%; }
+
+h1 {
+  font-family: 'Alumni Sans Pinstripe', sans-serif;
+  font-size: 80px; }
+
+p {
+  font-family: 'Dancing Script', cursive;
+  font-size: 40px; }

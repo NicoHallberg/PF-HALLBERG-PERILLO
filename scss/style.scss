@@ -1,0 +1,59 @@
+$color-fondo: #f0cbc3;
+
+* {
+    margin-right: 0;
+    margin-left: 0;
+    margin-top: 0;   
+}
+
+@import "nav";
+    
+
+body {
+    background-color: $color-fondo;
+    
+}
+
+.redes {
+
+    height: 130px;
+
+}
+
+@import "footer";
+
+.sociales li{
+                display: inline-block;
+                
+                a{
+                    padding: 10px;
+            
+}
+
+}
+
+.logo{
+    width: 150px;
+}
+
+.icono {
+    width: 45px;
+
+}
+
+
+.animate__animated {
+
+    width: 70%;
+    border-radius: 100%;
+}
+
+h1{
+    font-family: 'Alumni Sans Pinstripe', sans-serif;
+    font-size: 80px;
+}
+
+p {
+    font-family: 'Dancing Script', cursive;
+    font-size: 40px;
+}

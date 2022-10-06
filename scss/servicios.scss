@@ -1,0 +1,68 @@
+$color-fondo: #f0cbc3;
+
+* {
+    margin-right: 0;
+    margin-left: 0;
+    margin-top: 0;   
+}
+
+@import "nav";
+
+body {
+    background-color: $color-fondo;
+    height: 100%;
+}
+
+.redes {
+
+    height: 130px;
+
+}
+
+@import "footer";
+
+.sociales li{
+    display: inline-block;
+    
+    a{
+        padding: 10px;
+
+}
+
+}
+
+.logo{
+    width: 150px;
+}
+
+.icono {
+    width: 45px;
+
+}
+
+h3{
+    font-size: 60px;
+    font-family: 'Alumni Sans Pinstripe', sans-serif;
+    text-align: center;
+}
+
+.imagen-1{
+    width: 400px;
+}
+
+.imagen-2{
+    width: 445px;
+}
+
+h4{
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+    font-size: 50px;
+}
+
+p{
+    text-align: center;
+    justify-content: center;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+
+}
