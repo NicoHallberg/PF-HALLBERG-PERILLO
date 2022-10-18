@@ -11,6 +11,11 @@ $color-fondo: #f0cbc3;
 body {
     background-color: $color-fondo;
     height: 100%;
+    text-align: center;
+    }
+
+h1{
+    justify-content: center;
 }
 
 .redes {
@@ -33,27 +38,4 @@ body {
 
 .logo{
     width: 150px;
-}
-
-h3{
-    font-size: 60px;
-    font-family: 'Alumni Sans Pinstripe', sans-serif;
-    text-align: center;
-}
-
-.container {
-    font-family: 'M PLUS Rounded 1c', sans-serif;
-}
-
-h4{
-    font-size: 40px;
-    margin-top: 50px;
-}
-
-h5{
-    font-size: 30px;
-}
-
-form{
-    padding-bottom: 10px;
 }

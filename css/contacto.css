@@ -22,6 +22,15 @@ footer {
   background-color: #f0deda;
   align-items: center; }
 
+.icono-m {
+  width: 45px; }
+
+.icono-i {
+  width: 50px; }
+
+.icono-s {
+  width: 33px; }
+
 .sociales li {
   display: inline-block; }
   .sociales li a {
@@ -29,9 +38,6 @@ footer {
 
 .logo {
   width: 150px; }
-
-.icono {
-  width: 45px; }
 
 h3 {
   font-size: 60px;
